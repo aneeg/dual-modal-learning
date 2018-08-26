@@ -1,4 +1,4 @@
 # Some Notes:
-1st run the dataPreLSTM.m code 
+1st run the dataPreLSTM.m code.
 
-then the ouput will be saved in the Data folder
+The ouput will be saved in the Data folder
