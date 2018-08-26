@@ -1,0 +1,4 @@
+Matlab R2018a (Version 9.4) -- https://www.mathworks.com/
+ImageNet-EEG dataset -- http://perceive.dieei.unict.it/index-dataset.php?name=EEG_Data
+ImageNet dataset -- http://www.image-net.org/
+Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
