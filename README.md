@@ -9,7 +9,7 @@ ImageNet dataset (40 classes corresponding to the ImageNet-EEG) -- http://www.im
 
 Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
-40 classes labels: 
+40 classes ImageNet-EEG labels: 
 '02106662'
 '02124075'
 '02281787'
@@ -50,6 +50,9 @@ Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 '07873807'
 '11939491'
 '13054560'
+
+18 classes Caltech 101 labels: 
+airplanes, bass, butterfly, camera, car with side view, cellphone, chair, cup, Dalmatian (dog), electric guitar, elephant, grand piano, lotus, panda, pizza, revolver, watch and wildcat.
 
 # Reference
 If you are using this code please cite our paper.
