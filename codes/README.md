@@ -1,4 +1,4 @@
-# Dowload
+# Download
 ImageNet-EEG dataset -- http://perceive.dieei.unict.it/index-dataset.php?name=EEG_Data
 
 Save the downloaded files in the Dataset folder.
