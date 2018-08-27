@@ -15,11 +15,9 @@
 
 2. DataPreGoogleNetCal18.m -- the output will be saved  automatically to the Cal/18 Folder
 
-3. Go to Nets folder and follow the instructions
+3. GoogleNet18.m	-- To get the performance based on GoogLeNet
 
-4. GoogleNet18.m	-- To get the performance based on GoogLeNet
-
-5. deepNet5.m -- To get the performance based on the proposed deep framework
+4. deepNet5.m -- To get the performance based on the proposed deep framework
 
 # Note
 All the required files are uploaded to the to the corresponding folders for convenience running of the experiments
