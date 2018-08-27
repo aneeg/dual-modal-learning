@@ -10,4 +10,4 @@ Save the downloaded files in the Dataset folder.
 3. Go to Nets folder and follow the instructions 
 
 # Note
-All the required files are uploaded to the to the corresponding folder for convenience running of the experiments
+All the required files are uploaded to the to the corresponding folders for convenience running of the experiments
