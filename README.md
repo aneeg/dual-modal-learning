@@ -9,7 +9,13 @@ ImageNet dataset (40 classes corresponding to the ImageNet-EEG) -- http://www.im
 
 Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
-40 classes ImageNet-EEG labels: 
+40 classes ImageNet-EEG labels: dog, cat, butterﬂy, sorrel, capuchin, elephant,
+panda, ﬁsh, airliner, broom, canoe, phone, mug, convertible, computer,
+watch, guitar, locomotive, espresso, chair, golf, piano, iron, jack, mailbag,
+missile, mitten, bike, tent, pajama, parachute, pool, radio, camera, gun,
+shoe, banana, pizza, daisy and bolete (fungus)
+
+
 '02106662'
 '02124075'
 '02281787'
