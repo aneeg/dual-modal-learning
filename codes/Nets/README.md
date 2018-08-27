@@ -22,4 +22,4 @@
 5. deepNet5.m -- To get the performance based on the proposed deep framework
 
 # Note
-All the required files are uploaded to the to the corresponding folder for convenience running of the experiments
+All the required files are uploaded to the to the corresponding folders for convenience running of the experiments
