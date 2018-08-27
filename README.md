@@ -1,13 +1,13 @@
 # dual-modal-learning
 dual-modal learning
 # Installation, download, and dependencies
-Matlab R2018a (Version 9.4) -- https://www.mathworks.com/
+1. Matlab R2018a (Version 9.4) -- https://www.mathworks.com/
 
-ImageNet-EEG dataset -- http://perceive.dieei.unict.it/index-dataset.php?name=EEG_Data
+2. ImageNet-EEG dataset -- http://perceive.dieei.unict.it/index-dataset.php?name=EEG_Data
 
-ImageNet dataset (40 classes corresponding to the ImageNet-EEG) -- http://www.image-net.org/
+3. ImageNet dataset (40 classes corresponding to the ImageNet-EEG) -- http://www.image-net.org/
 
-Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+4. Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
 40 classes ImageNet-EEG labels: dog, cat, butterﬂy, sorrel, capuchin, elephant,
 panda, ﬁsh, airliner, broom, canoe, phone, mug, convertible, computer,
@@ -59,6 +59,8 @@ shoe, banana, pizza, daisy and bolete (fungus)
 
 18 classes Caltech 101 labels: 
 airplanes, bass, butterfly, camera, car with side view, cellphone, chair, cup, Dalmatian (dog), electric guitar, elephant, grand piano, lotus, panda, pizza, revolver, watch and wildcat.
+
+5. Go to the Codes folder and follow the instructions
 
 # Reference
 If you are using this code please cite our paper.
