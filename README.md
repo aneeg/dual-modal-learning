@@ -9,14 +9,14 @@ dual-modal learning
 
 4. Caltech 101 dataset -- http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
-40 classes ImageNet-EEG labels: dog, cat, butterﬂy, sorrel, capuchin, elephant,
+5. 40 classes ImageNet-EEG labels: dog, cat, butterﬂy, sorrel, capuchin, elephant,
 panda, ﬁsh, airliner, broom, canoe, phone, mug, convertible, computer,
 watch, guitar, locomotive, espresso, chair, golf, piano, iron, jack, mailbag,
 missile, mitten, bike, tent, pajama, parachute, pool, radio, camera, gun,
 shoe, banana, pizza, daisy and bolete (fungus)
 
 
-'02106662'
+6. '02106662'
 '02124075'
 '02281787'
 '02389026'
@@ -57,10 +57,13 @@ shoe, banana, pizza, daisy and bolete (fungus)
 '11939491'
 '13054560'
 
-18 classes Caltech 101 labels: 
+7. 18 classes Caltech 101 labels: 
 airplanes, bass, butterfly, camera, car with side view, cellphone, chair, cup, Dalmatian (dog), electric guitar, elephant, grand piano, lotus, panda, pizza, revolver, watch and wildcat.
 
-5. Go to the Codes folder and follow the instructions
+8. Go to the Codes folder and follow the instructions
+
+# Note
+All the required files are uploaded to the to the corresponding folder for convenience running of the experiments
 
 # Reference
 If you are using this code please cite our paper.
