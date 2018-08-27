@@ -63,7 +63,7 @@ airplanes, bass, butterfly, camera, car with side view, cellphone, chair, cup, D
 8. Go to the Codes folder and follow the instructions
 
 # Note
-All the required files are uploaded to the to the corresponding folder for convenience running of the experiments
+All the required files are uploaded to the to the corresponding folders for convenience running of the experiments
 
 # Reference
 If you are using this code please cite our paper.
