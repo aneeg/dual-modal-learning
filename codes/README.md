@@ -6,3 +6,5 @@ Save the downloaded files in the Dataset folder.
 1. dataPreLSTM.m --	the output will be saved automatically to the Data Folder
 
 2. encoderOutput.m -- the output will be saved  automatically to the Data Folder
+
+3. Go to Nets folder and follow the instructions 
